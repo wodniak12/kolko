@@ -1,0 +1,15 @@
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.exe
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.deps.json
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.runtimeconfig.json
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.runtimeconfig.dev.json
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.dll
+C:\Users\kwojt\source\repos\krzyzyk\bin\Debug\netcoreapp3.1\krzyzyk.pdb
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.csprojAssemblyReference.cache
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.Form1.resources
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.csproj.GenerateResource.cache
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.AssemblyInfoInputs.cache
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.AssemblyInfo.cs
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.dll
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.pdb
+C:\Users\kwojt\source\repos\krzyzyk\obj\Debug\netcoreapp3.1\krzyzyk.genruntimeconfig.cache
